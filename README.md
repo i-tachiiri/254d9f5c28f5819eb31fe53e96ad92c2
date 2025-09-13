@@ -1,6 +1,6 @@
-# Formula Script Template
+# 繰り上がりのある足し算のプリント Formula Generator
 
-Google Apps Script 用の数式生成テンプレートプロジェクトです。
+Google Apps Script 用の繰り上がりのある足し算のプリントの数式生成プロジェクトです。
 
 ## 🎯 このテンプレートについて
 
